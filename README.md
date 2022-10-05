@@ -4,7 +4,7 @@
 
 - 💞️ At present, I am a junior graduate student pursuing a master’s degree and majoring in **Computational Biology and Bioinformatics** at the Computational Biology Center, Beijing Forestry University (Beijing, China). **Core Courses**: Statistical Genetics (96), Large Data Statistical Analysis and Python (96), Multivariate Statistical Analysis (95), The Method for Analyzing Omics Data (96), Pattern Recognition and Machine Learning (88).
 
-- 🌱 Prof. Rongling Wu (https://www.researchgate.net/profile/Rongling-Wu) is my academic supervisor and my research mainly focuses on **exploring the relationship between genes and dynamic phenotypic data using statistical models and computer programming languages**.
+- 🌱 My research mainly focuses on **exploring the relationship between genes and dynamic phenotypic data using statistical models and computer programming languages** and Prof. Rongling Wu (https://www.researchgate.net/profile/Rongling-Wu) is my academic supervisor.
 
 - 👀 I wish to pursue a doctoral degree in the **Computational Biology and Bioinformatics Program (Machine learning and Deep learning are more preferred) in 2023 Fall**.
 
