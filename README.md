@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Caifeng Li (github: @fancykoi).
 
-- 💞️ At present, I am a junior graduate student pursuing a master’s degree and majoring in **Computational Biology and Bioinformatics** at the Computational Biology Center, Beijing Forestry University (Beijing, China).
+- 💞️ At present, I am a junior graduate student pursuing a master’s degree and majoring in **Computational Biology and Bioinformatics** at the Computational Biology Center, Beijing Forestry University (Beijing, China). **Core Courses**: Statistical Genetics (96), Large Data Statistical Analysis and Python (96), Multivariate Statistical Analysis (95), The Method for Analyzing Omics Data (96), Pattern Recognition and Machine Learning (88).
 
 - 🌱 Prof. Rongling Wu (https://www.researchgate.net/profile/Rongling-Wu) is my academic supervisor and my research mainly focuses on **exploring the relationship between genes and dynamic phenotypic data using statistical models and computer programming languages**.
 
@@ -20,7 +20,7 @@ My ORCID homepage can be found here: https://orcid.org/0000-0001-9157-367X. Duri
 - SQL language and MySQL operation & Linux general operation.
 - Bioinformatics analysis software and methods, as well as RNA-Seq differential gene analysis methods.
 
-# 3. My interests
+# 3. My research interests
 During my doctoral studies, I hope to explore scientific problems that require profound theoretical support and mathematical deduction from a broader perspective and tend to apply cutting-edge technologies, such as Machine Learning and Deep Learning, to solve practical problems related to biomedical big data. I am a self-study, self-motivated, diligent, and optimistic person who loves scientific research. When facing difficult problems, I have never been overwhelmed, seeking solutions has been always my first choice.
 
 # 4. My main research projects
