@@ -4,9 +4,9 @@
 
 - 💞️ At present, I am a junior graduate student pursuing a master’s degree and majoring in **Computational Biology and Bioinformatics** at the Computational Biology Center, Beijing Forestry University (Beijing, China).
 
-- 🌱 Prof. Rongling Wu (https://www.researchgate.net/profile/Rongling-Wu) is my academic supervisor and my research mainly focuses on **exploring the relationship between genes and dynamic phenotypic data using statistical models and computer programming languages.
+- 🌱 Prof. Rongling Wu (https://www.researchgate.net/profile/Rongling-Wu) is my academic supervisor and my research mainly focuses on **exploring the relationship between genes and dynamic phenotypic data using statistical models and computer programming languages**.
 
-- 👀 I wish to pursue a doctoral degree in the **Computational Biology and Bioinformatics Program (Machine learning and Deep learning are more preferred) in 2023 Fall.
+- 👀 I wish to pursue a doctoral degree in the **Computational Biology and Bioinformatics Program (Machine learning and Deep learning are more preferred) in 2023 Fall**.
 
 - 📫 E-mail: cfli2020@bjfu.edu.cn
 
@@ -35,7 +35,21 @@ During my doctoral studies, I hope to explore scientific problems that require p
 - Identified a total of 85 Asparagus officinalis NAC genes and systematically analyzed the gene family through bioinformatics methods, including physicochemical properties, phylogenetic relationship, chromosome localization, gene structure, conserved motifs, intron/exon, cis-acting elements, gene duplication, syntenic analysis, and differential gene expression analysis.
 - A paper was published based on this research (first author, https://doi.org/10.3390/genes13060976).
 
+## 4.3 Mathematical Contest in Modelling (10/2021)
+- Team Leader, Dr. Liang Fang (supervisor)
+- Conducted research on optimal modelling of anti-breast cancer drug candidates based on machine learning and neural networks, won the 3rd prize in the 13th China Mathematical Contest in Modelling for Postgraduate Students.
+- Developed a quantitative prediction model of compound bioactivity and a classification prediction model of five ADMET properties based on ERα antagonist information (1974 compound samples, each with 729 molecular descriptor variables, 1 bioactivity data, and 5 ADMET properties data). Screened the potential active compounds to seek the best drugs for breast cancer based on the optimization theory.
+- Conducted data cleaning through R and Python, including null and abnormal value processing, data standardization, and normalization.
+- Sorted and filtered the feature contribution to achieve variable selection based on the decision tree and random forest algorithm.
+- Compared the regression algorithms e.g., linear regression, SVM, KNN, and deep neural network, selected the best algorithm to build a quantitative prediction model and predicted the pIC50 values of 50 potential compounds.
+- Constructed a binary prediction model based on the depth neural network to predict the ADMET properties of 50 potential compounds (accuracy ≥ 99%).
 
+
+## 4.4 Explore the phenomenon and mechanism of cross-tissue "communication" between microorganisms (10/2021-Present)
+- Team Leader, Prof. Rongling Wu (supervisor, world-renowned computational biology expert, "Changjiang Scholar", "National Distinguished Professor" of Organization Department of the CPC Central Committee)
+- Investigated the phenomenon and mechanism of cross-tissue "communication" among microorganisms based on two sets of public data (leaves and roots microbial phylum of Boechera stricta from three regions and rectum and vagina microbial genera of human females), and about to submit a paper in December.
+- Lasso was used for variable selection and the ordinary differential equations were solved using the fourth-order Runge-Kutta algorithm and the genetic effect curves are disassembled.
+- The parameters were optimized based on NLS and gradient descent and the differential equations were analyzed to construct the regulatory network.
 
 # 5. My work experiences about Autoimmunity Disease
 
