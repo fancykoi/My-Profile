@@ -1,4 +1,4 @@
-
+# My profile
 
 - 👋 Hi, I’m Caifeng Li (github: @fancykoi).
 
@@ -6,7 +6,7 @@
 
 - 🌱 Prof. Rongling Wu (https://www.researchgate.net/profile/Rongling-Wu) is my academic supervisor and my research mainly focuses on exploring the relationship between genes and dynamic phenotypic data using statistical models and computer programming languages.
 
-- 👀 I wish to pursue a doctoral degree in the Computational Biology and Bioinformatics Program (Machine learning and Deep learning are more preferred) in 2023 Fall.
+- 👀 I wish to pursue a doctoral degree in the --Computational Biology and Bioinformatics Program-- (Machine learning and Deep learning are more preferred) in 2023 Fall.
 
 - 📫 E-mail: cfli2020@bjfu.edu.cn
 
@@ -14,12 +14,13 @@
 
 My ORCID homepage can be found here: https://orcid.org/0000-0001-9157-367X. During my postgraduate period, my academic performance has been excellent, with a GPA of 90.6 (90.6/100), ranking first in the Computational Biology and Bioinformatics major. I won the first prize scholarship for two consecutive years (2020&2021) with the honor of “Outstanding Graduate Student” (2021) and the 3rd prize in the 13th China Mathematical Contest in Modeling for Postgraduate Students in 2021. Up until now, I have published two SCI papers as the first author (https://doi.org/10.3390/genes13060976, https://github.com/fancykoi/fancykoi/files/9713044/genes-13-00976.pdf) and the third author (https://doi.org/10.48130/FR-2021-0019, https://github.com/fancykoi/fancykoi/files/9713045/FR-2021-0019.pdf).
 
-My skills can be summarized as follows:
+# My skills
 - R language and data cleaning, data mining, statistical model.
 - Python language and NumPy, Matplotlib, SciPy, Scikit-Learn, and TensorFlow framework.
 - SQL language and MySQL operation & Linux general operation.
 - Bioinformatics analysis software and methods, as well as RNA-Seq differential gene analysis methods.
 
+# My interests
 During my doctoral studies, I hope to explore scientific problems that require profound theoretical support and mathematical deduction from a broader perspective and tend to apply cutting-edge technologies, such as Machine Learning and Deep Learning, to solve practical problems related to biomedical big data. I am a self-study, self-motivated, diligent, and optimistic person who loves scientific research. When facing difficult problems, I have never been overwhelmed, seeking solutions has been always my first choice.
 
 # My main research projects
@@ -36,7 +37,7 @@ During my doctoral studies, I hope to explore scientific problems that require p
 
 
 
-# My work experiences about Autoimmunity Disease are as follows.
+# My work experiences about Autoimmunity Disease
 
 Werfen Medical Instrument Trading (Beijing) Co., LTD. (Spain company). (04/2020-09/2020)
 - Senior Product Specialist in Autoimmunity Division
@@ -52,7 +53,7 @@ Werfen Medical Instrument Trading (Beijing) Co., LTD. (Spain company). (04/2020-
 ## Academic Conferences (09/2016 - 09/2020)
 - Participated in academic conferences in the medical field, e.g., National Congress of Chinese Rheumatology Association, Annual Conference of Chinese College of Allergy and Asthma, Congress of Gastroenterology China, China Medical Equipment Congress, and China International Medical Equipment Fair, etc.
 
-# My internship experiences about Data Analysis is as follows.
+# My internship experiences about Data Analysis
 
 ## Meituan (Beijing Sankuai Online Technology Co., LTD.) (11/2021-03/2022)
 - Data Analysis Intern in Supply and Demand Strategy Operation Group
