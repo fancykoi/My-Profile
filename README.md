@@ -6,8 +6,6 @@
 
 - 🌱 My research mainly focuses on **exploring the relationship between genes and dynamic phenotypic data using statistical models and computer programming languages** and Prof. Rongling Wu (https://www.researchgate.net/profile/Rongling-Wu) is my academic supervisor.
 
-- 👀 I wish to pursue a doctoral degree in the **Computational Biology and Bioinformatics Program (Machine learning and Deep learning are more preferred) in 2023 Fall**.
-
 - 📫 E-mail: cfli2020@bjfu.edu.cn
 
 
