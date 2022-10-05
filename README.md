@@ -12,7 +12,10 @@
 
 
 
-My ORCID homepage can be found here: https://orcid.org/0000-0001-9157-367X. During my postgraduate period, my academic performance has been excellent, with a GPA of 90.6 (90.6/100), ranking first in the Computational Biology and Bioinformatics major. I won the first prize scholarship for two consecutive years (2020&2021) with the honor of “Outstanding Graduate Student” (2021) and the 3rd prize in the 13th China Mathematical Contest in Modeling for Postgraduate Students in 2021. Up until now, I have published two SCI papers as the first author (https://doi.org/10.3390/genes13060976) and the third author (https://doi.org/10.48130/FR-2021-0019), please see the attachment CV for details.
+My ORCID homepage can be found here: https://orcid.org/0000-0001-9157-367X. During my postgraduate period, my academic performance has been excellent, with a GPA of 90.6 (90.6/100), ranking first in the Computational Biology and Bioinformatics major. I won the first prize scholarship for two consecutive years (2020&2021) with the honor of “Outstanding Graduate Student” (2021) and the 3rd prize in the 13th China Mathematical Contest in Modeling for Postgraduate Students in 2021. Up until now, I have published two SCI papers as the first author (https://doi.org/10.3390/genes13060976) and the third author (https://doi.org/10.48130/FR-2021-0019).
+
+[一作论文genes-13-00976.pdf](https://github.com/fancykoi/fancykoi/files/9713044/genes-13-00976.pdf)
+[三作论文FR-2021-0019.pdf](https://github.com/fancykoi/fancykoi/files/9713045/FR-2021-0019.pdf)
 
 <!---
 fancykoi/fancykoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
