@@ -21,19 +21,19 @@ My ORCID homepage can be found here: https://orcid.org/0000-0001-9157-367X. Duri
 # 3. My research interests
 During my doctoral studies, I hope to explore scientific problems that require profound theoretical support and mathematical deduction from a broader perspective and tend to apply cutting-edge technologies, such as Machine Learning and Deep Learning, to solve practical problems related to biomedical big data. I am a self-study, self-motivated, diligent, and optimistic person who loves scientific research. When facing difficult problems, I have never been overwhelmed, seeking solutions has been always my first choice.
 
-# 4. My main research projects
+# 2. My main research projects
 
-## 4.1. Postgraduate thesis project (08/2021-Present)
+## 3.1. Competition-cooperation mechanism of _Escherichia coli_ and _Staphhlococcus aureus_ using shstem mapping (08/2021-Present)
 - Team Leader, Prof. Rongling Wu (supervisor, world-renowned computational biology expert, "Changjiang Scholar", "National Distinguished Professor" of Organization Department of the CPC Central Committee)
 - Studied the key genes and the mechanism of competition and cooperation in the interaction between the two bacteria by System Mapping model based on the phenotypic data and SNPs data produced by 100 pairs of Escherichia coli and Staphylococcus aureus under co-culture conditions, and about to submit a paper in November.
 - Selected the ordinary differential equations of Lotka-Volterran interspecific competition model to construct the mean vector and used the fourth-order Runge-Kutta algorithm to solve the ordinary differential equations. Utilized SAD (2) to construct the covariance matrix, and the MLE framework of the multivariate normal distribution mixed model was used for parameter estimation and hypothesis testing. The parameters were optimized based on the least square method and the gradient descent method.
 
-## 4.2. Genome-Wide Identification and Analysis of the NAC Transcription Factor Gene Family in Garden Asparagus (Asparagus officinalis). (01/2022-06/2022)
+## 3.2. Genome-Wide Identification and Analysis of the NAC Transcription Factor Gene Family in Garden Asparagus (Asparagus officinalis). (01/2022-06/2022)
 - Team Leader, Dr. Xuli Zhu (supervisor)
 - Identified a total of 85 Asparagus officinalis NAC genes and systematically analyzed the gene family through bioinformatics methods, including physicochemical properties, phylogenetic relationship, chromosome localization, gene structure, conserved motifs, intron/exon, cis-acting elements, gene duplication, syntenic analysis, and differential gene expression analysis.
 - A paper was published based on this research (first author, https://doi.org/10.3390/genes13060976).
 
-## 4.3 Mathematical Contest in Modelling (10/2021)
+## 3.3 Mathematical Contest in Modelling (10/2021)
 - Team Leader, Dr. Liang Fang (supervisor)
 - Conducted research on optimal modelling of anti-breast cancer drug candidates based on machine learning and neural networks, won the 3rd prize in the 13th China Mathematical Contest in Modelling for Postgraduate Students.
 - Developed a quantitative prediction model of compound bioactivity and a classification prediction model of five ADMET properties based on ERα antagonist information (1974 compound samples, each with 729 molecular descriptor variables, 1 bioactivity data, and 5 ADMET properties data). Screened the potential active compounds to seek the best drugs for breast cancer based on the optimization theory.
@@ -43,7 +43,7 @@ During my doctoral studies, I hope to explore scientific problems that require p
 - Constructed a binary prediction model based on the depth neural network to predict the ADMET properties of 50 potential compounds (accuracy ≥ 99%).
 
 
-## 4.4 Explore the phenomenon and mechanism of cross-tissue "communication" between microorganisms (10/2021-Present)
+## 3.4 Explore the phenomenon and mechanism of cross-tissue "communication" between microorganisms (10/2021-Present)
 - Team Leader, Prof. Rongling Wu (supervisor, world-renowned computational biology expert, "Changjiang Scholar", "National Distinguished Professor" of Organization Department of the CPC Central Committee)
 - Investigated the phenomenon and mechanism of cross-tissue "communication" among microorganisms based on two sets of public data (leaves and roots microbial phylum of Boechera stricta from three regions and rectum and vagina microbial genera of human females), and about to submit a paper in December.
 - Lasso was used for variable selection and the ordinary differential equations were solved using the fourth-order Runge-Kutta algorithm and the genetic effect curves are disassembled.
@@ -65,7 +65,7 @@ During my doctoral studies, I hope to explore scientific problems that require p
 ## 4.3. Academic Conferences (09/2016 - 09/2020)
 - Participated in academic conferences in the medical field, e.g., National Congress of Chinese Rheumatology Association, Annual Conference of Chinese College of Allergy and Asthma, Congress of Gastroenterology China, China Medical Equipment Congress, and China International Medical Equipment Fair, etc.
 
-# 6. My internship experiences about Data Analysis
+# 5. My internship experiences about Data Analysis
 
 ## 6.1. Meituan (Beijing Sankuai Online Technology Co., LTD.) (11/2021-03/2022)
 - Data Analysis Intern in Supply and Demand Strategy Operation Group
