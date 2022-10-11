@@ -23,7 +23,7 @@ During my doctoral studies, I hope to explore scientific problems that require p
 
 # 2. My main research projects
 
-## 2.2. Competition-cooperation mechanism of _Escherichia coli_ and _Staphhlococcus aureus_ using shstem mapping (08/2021-Present)
+## 2.2. Competition-cooperation mechanism of _Escherichia coli_ and _Staphhlococcus aureus_ using system mapping (08/2021-Present)
 - Team Leader, Prof. Rongling Wu (supervisor, world-renowned computational biology expert, "Changjiang Scholar", "National Distinguished Professor" of Organization Department of the CPC Central Committee)
 - Studied the key genes and the mechanism of competition and cooperation in the interaction between the two bacteria by System Mapping model based on the phenotypic data and SNPs data produced by 100 pairs of Escherichia coli and Staphylococcus aureus under co-culture conditions, and about to submit a paper in November.
 - Selected the ordinary differential equations of Lotka-Volterran interspecific competition model to construct the mean vector and used the fourth-order Runge-Kutta algorithm to solve the ordinary differential equations. Utilized SAD (2) to construct the covariance matrix, and the MLE framework of the multivariate normal distribution mixed model was used for parameter estimation and hypothesis testing. The parameters were optimized based on the least square method and the gradient descent method.
