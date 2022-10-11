@@ -67,7 +67,7 @@ During my doctoral studies, I hope to explore scientific problems that require p
 
 # 5. My internship experiences about Data Analysis
 
-## 6.1. Meituan (Beijing Sankuai Online Technology Co., LTD.) (11/2021-03/2022)
+## 5.1. Meituan (Beijing Sankuai Online Technology Co., LTD.) (11/2021-03/2022)
 - Data Analysis Intern in Supply and Demand Strategy Operation Group
 - SQL was used to query and analyze the data, and R was used to construct a multiple linear regression model to evaluate the significance of the index.
 - Participated in the commission iteration strategy for the current imperfect commission rules and used SQL and Excel to analyze the reasons for extremely low and high commissions.
