@@ -49,20 +49,20 @@ During my doctoral studies, I hope to explore scientific problems that require p
 - Lasso was used for variable selection and the ordinary differential equations were solved using the fourth-order Runge-Kutta algorithm and the genetic effect curves are disassembled.
 - The parameters were optimized based on NLS and gradient descent and the differential equations were analyzed to construct the regulatory network.
 
-# 5. My work experiences about Autoimmunity Disease
+# 4. My work experiences about Autoimmunity Disease
 
-## 5.1. Werfen Medical (Spain company) (04/2020-09/2020)
+## 4.1. Werfen Medical (Spain company) (04/2020-09/2020)
 - Senior Product Specialist in Autoimmunity Division
 - Conducted product life cycle management and national market expansion of the reagents and instruments for detecting autoimmune diseases, including phospholipid syndrome, ANA and ANCA detection reagent products, and automatic chemiluminescence immune analyzer.
 - Mastered technical principles of chemiluminescence, microfluidic technology, and next-generation gene sequencing technology, in addition to immune-related detection techniques.
 
-## 5.2. Euroimmun Medical Diagnostics (German company) (09/2016-04/2020)
+## 4.2. Euroimmun Medical Diagnostics (German company) (09/2016-04/2020)
 - Product Specialist in Group Marketing Department
 - Conducted product life cycle management and national market expansion of the reagents for detecting autoimmune diseases and allergic diseases, including allergic asthma, autoimmune liver disease, inflammatory bowel disease, celiac disease, pemphigus/pemphigoid, and other diseases.
 - Mastered the technology platforms of indirect immunofluorescence, enzyme-linked immunoassay, and Western blotting.
 - Mastered market strategy formulation, market research, product training, academic conference organization, customer visit, scientific research project management, etc.
 
-## 5.3. Academic Conferences (09/2016 - 09/2020)
+## 4.3. Academic Conferences (09/2016 - 09/2020)
 - Participated in academic conferences in the medical field, e.g., National Congress of Chinese Rheumatology Association, Annual Conference of Chinese College of Allergy and Asthma, Congress of Gastroenterology China, China Medical Equipment Congress, and China International Medical Equipment Fair, etc.
 
 # 6. My internship experiences about Data Analysis
