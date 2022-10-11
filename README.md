@@ -28,12 +28,12 @@ During my doctoral studies, I hope to explore scientific problems that require p
 - Studied the key genes and the mechanism of competition and cooperation in the interaction between the two bacteria by System Mapping model based on the phenotypic data and SNPs data produced by 100 pairs of Escherichia coli and Staphylococcus aureus under co-culture conditions, and about to submit a paper in November.
 - Selected the ordinary differential equations of Lotka-Volterran interspecific competition model to construct the mean vector and used the fourth-order Runge-Kutta algorithm to solve the ordinary differential equations. Utilized SAD (2) to construct the covariance matrix, and the MLE framework of the multivariate normal distribution mixed model was used for parameter estimation and hypothesis testing. The parameters were optimized based on the least square method and the gradient descent method.
 
-## 3.2. Genome-Wide Identification and Analysis of the NAC Transcription Factor Gene Family in Garden Asparagus (Asparagus officinalis). (01/2022-06/2022)
+## 2.2. Genome-Wide Identification and Analysis of the NAC Transcription Factor Gene Family in Garden Asparagus (_Asparagus officinalis_). (01/2022-06/2022)
 - Team Leader, Dr. Xuli Zhu (supervisor)
 - Identified a total of 85 Asparagus officinalis NAC genes and systematically analyzed the gene family through bioinformatics methods, including physicochemical properties, phylogenetic relationship, chromosome localization, gene structure, conserved motifs, intron/exon, cis-acting elements, gene duplication, syntenic analysis, and differential gene expression analysis.
 - A paper was published based on this research (first author, https://doi.org/10.3390/genes13060976).
 
-## 3.3 Mathematical Contest in Modelling (10/2021)
+## 2.1 Mathematical Contest in Modelling (10/2021)
 - Team Leader, Dr. Liang Fang (supervisor)
 - Conducted research on optimal modelling of anti-breast cancer drug candidates based on machine learning and neural networks, won the 3rd prize in the 13th China Mathematical Contest in Modelling for Postgraduate Students.
 - Developed a quantitative prediction model of compound bioactivity and a classification prediction model of five ADMET properties based on ERα antagonist information (1974 compound samples, each with 729 molecular descriptor variables, 1 bioactivity data, and 5 ADMET properties data). Screened the potential active compounds to seek the best drugs for breast cancer based on the optimization theory.
