@@ -35,7 +35,7 @@ During my doctoral studies, I hope to explore scientific problems that require p
 
 ## 2.1 Mathematical Contest in Modelling (10/2021)
 - Team Leader, Dr. Liang Fang (supervisor)
-- Conducted research on optimal modelling of anti-breast cancer drug candidates based on machine learning and neural networks, won the 3rd prize in the 13th China Mathematical Contest in Modelling for Postgraduate Students.
+- Conducted research on **optimal modelling of anti-breast cancer drug candidates based on machine learning and neural networks**, won the 3rd prize in the 13th China Mathematical Contest in Modelling for Postgraduate Students.
 - Developed a quantitative prediction model of compound bioactivity and a classification prediction model of five ADMET properties based on ERα antagonist information (1974 compound samples, each with 729 molecular descriptor variables, 1 bioactivity data, and 5 ADMET properties data). Screened the potential active compounds to seek the best drugs for breast cancer based on the optimization theory.
 - Conducted data cleaning through R and Python, including null and abnormal value processing, data standardization, and normalization.
 - Sorted and filtered the feature contribution to achieve variable selection based on the decision tree and random forest algorithm.
