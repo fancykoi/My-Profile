@@ -23,12 +23,12 @@ During my doctoral studies, I hope to explore scientific problems that require p
 
 # 2. My main research projects
 
-## 2.2. Competition-cooperation mechanism of _Escherichia coli_ and _Staphhlococcus aureus_ using system mapping (08/2021-Present)
+## 3.1. Competition-cooperation mechanism of _Escherichia coli_ and _Staphhlococcus aureus_ using system mapping (08/2021-Present)
 - Team Leader, Prof. Rongling Wu (supervisor, world-renowned computational biology expert, "Changjiang Scholar", "National Distinguished Professor" of Organization Department of the CPC Central Committee)
 - Studied the key genes and the mechanism of competition and cooperation in the interaction between the two bacteria by System Mapping model based on the phenotypic data and SNPs data produced by 100 pairs of Escherichia coli and Staphylococcus aureus under co-culture conditions, and about to submit a paper in November.
 - Selected the ordinary differential equations of Lotka-Volterran interspecific competition model to construct the mean vector and used the fourth-order Runge-Kutta algorithm to solve the ordinary differential equations. Utilized SAD (2) to construct the covariance matrix, and the MLE framework of the multivariate normal distribution mixed model was used for parameter estimation and hypothesis testing. The parameters were optimized based on the least square method and the gradient descent method.
 
-## 2.4. Genome-Wide Identification and Analysis of the NAC Transcription Factor Gene Family in Garden Asparagus (_Asparagus officinalis_). (01/2022-06/2022)
+## 3.3. Genome-Wide Identification and Analysis of the NAC Transcription Factor Gene Family in Garden Asparagus (_Asparagus officinalis_). (01/2022-06/2022)
 - Team Leader, Dr. Xuli Zhu (supervisor)
 - Identified a total of 85 Asparagus officinalis NAC genes and systematically analyzed the gene family through bioinformatics methods, including physicochemical properties, phylogenetic relationship, chromosome localization, gene structure, conserved motifs, intron/exon, cis-acting elements, gene duplication, syntenic analysis, and differential gene expression analysis.
 - A paper was published based on this research (first author, https://doi.org/10.3390/genes13060976).
@@ -43,7 +43,7 @@ During my doctoral studies, I hope to explore scientific problems that require p
 - Constructed a binary prediction model based on the depth neural network to predict the ADMET properties of 50 potential compounds (accuracy ≥ 99%).
 
 
-## 2.3. Explore the phenomenon and mechanism of cross-tissue "communication" between microorganisms (10/2021-Present)
+## 3.2. Explore the phenomenon and mechanism of cross-tissue "communication" between microorganisms (10/2021-Present)
 - Team Leader, Prof. Rongling Wu (supervisor, world-renowned computational biology expert, "Changjiang Scholar", "National Distinguished Professor" of Organization Department of the CPC Central Committee)
 - Investigated the phenomenon and mechanism of cross-tissue "communication" among microorganisms based on two sets of public data (leaves and roots microbial phylum of Boechera stricta from three regions and rectum and vagina microbial genera of human females), and about to submit a paper in December.
 - Lasso was used for variable selection and the ordinary differential equations were solved using the fourth-order Runge-Kutta algorithm and the genetic effect curves are disassembled.
