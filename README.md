@@ -1,6 +1,6 @@
-# 1. My profile
+# My profile
 
-- 👋 Hi, I’m Caifeng Li (github: @fancykoi).
+- 👋 Hi, I’m Caifeng Li (github: @fancykoi; ResearchGate: https://www.researchgate.net/profile/Caifeng-Li).
 
 - 💞️ At present, I am a Ph.D. student and majoring in **Statistics**.
 
